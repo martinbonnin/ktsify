@@ -1,5 +1,7 @@
 # ktsify.kts ✨✨
 
+# For a more comprehensive tool, check out [GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter), which does the same replacement and a lot more.
+
 Turn your `build.gradle` into `build.gradle.kts`.
 
 This script uses a list of regexes to turn single quotes into double ones, dependencies, etc... It's not perfect but it can save you time. Just don't take the output as gospel.
