@@ -1,6 +1,6 @@
 # ktsify.kts ✨✨
 
-# For a more comprehensive tool, check out [GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter), which does the same replacement and a lot more.
+# For a more comprehensive tool, check out [GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter), which does the same replacements and a lot more.
 
 Turn your `build.gradle` into `build.gradle.kts`.
 
